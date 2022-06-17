@@ -141,6 +141,7 @@ struct JiaChen: View {
                                                endPoint: .topTrailing)
                         .shadow(color: .purple, radius: 3, x: 0.5, y: 1))
                 })
+                
                 .rotationEffect(instagramButtonRotation)
                 .offset(x: -50, y: 0)
             }
